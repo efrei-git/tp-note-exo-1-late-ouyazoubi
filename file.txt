@@ -1,4 +1,9 @@
 commit 0
 commit 1
+<<<<<<< HEAD
 Commit 4
 Commit 5
+=======
+Commit 2
+Commit 3
+>>>>>>> branch-1
